@@ -1,0 +1,208 @@
+.body1{
+    background-color: black;
+}
+.body{
+    padding: 10px;
+    background-color: black;
+}
+.logo{
+    background-color: black;
+}
+.intro{
+    background: black;
+    color: white;
+    padding: 20px;
+    place-content: center;
+    display: flex;
+}
+.introduction1{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+.introduction{
+    background-color: black;
+    border-radius: 15px;
+    padding: 10px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.one{
+    background-color: black;
+    color: white;
+    display: flex;
+    padding: 20px;
+    place-content: center;
+}
+.vission{
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+    place-content: center;
+}
+.mission{
+    background-color: black;
+    border-radius: 15px;
+    padding: 10px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.vission1{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    place-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.whysol{
+    color: white;
+}
+.why{
+    background-color: black;
+    border-radius: 15px;
+    padding: 10px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.solana{
+    text-align: left;
+    
+}
+
+.chart{
+    padding: 200px;
+    border: 30px;
+    background-color: black;
+    border-radius: 15px;
+}
+.supply{
+    background-color: black;
+    padding: 40px;
+    text-align: left;
+    color: white;
+    place-content: center;
+}
+.token1{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tom{
+    text-align: left;
+}
+.tom1{
+    text-align: left;
+}
+.buy{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+.social{
+    display: flex;
+    place-content: center;
+    column-gap: 20px;
+}
+.contract{
+    text-align: center;
+    padding: 30px;
+}
+.ca{
+    font-family: monospace;
+}
+.twitter{
+}
+.telegram{
+    
+}
+.tk{
+    color: white;
+    text-align: center;
+}
+.sup{
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+    padding: 5PX;
+    text-align: left;
+    margin: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.all{
+    place-content: center;
+    display: flex;
+    column-gap: 40px;
+    
+    
+}
+.chart1{
+    width: 400px;
+}
+.road{
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.utility{
+    color: white;
+    padding: 20px;
+    display: flex;
+    background-color: black;
+    place-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    column-gap: 20px;
+}
+.two{
+    text-align: left;
+    padding: 20px;
+    background-color: rgb(40, 40, 40);
+}
+.three{
+    text-align: left;
+    padding: 20px;
+    background-color: rgb(40, 40, 40);
+}
+.utility2{
+    color: white;
+    display: flex;
+    padding: 20px;
+    place-content: center;
+    column-gap: 40px;
+}
+.prase1{
+    text-align: left;
+    padding: 20px;
+    background-color: rgb(40, 40, 40);
+}
+.prase{
+    text-align: left;
+    padding: 20px;
+    background-color: rgb(40, 40, 40);
+}
+.chart4{
+    text-align: center;
+}
+.pre{
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+.presale1{
+    background-color: black;
+    color: white;
+    display: flex;
+    padding: 20px;
+    place-content: center;
+}
+
+.chart3{
+    background-color: azure;
+}
